@@ -21,8 +21,9 @@ body {
 }
 
 body h1 {
-  font-family: Courier Prime, Calibri, sans-serif;
+  font-family: Courier Prime, Courier New, Courier, Calibri, sans-serif;
   font-size: 12em;
+  font-weight: 400;
   text-transform: uppercase;
   outline: none;
 }
